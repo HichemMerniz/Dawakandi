@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "567356208066",
+    "firebase_url": "https://dawakandi.firebaseio.com",
+    "project_id": "dawakandi",
+    "storage_bucket": "dawakandi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567356208066:android:7743d3e7853c27e061dc5b",
+        "android_client_info": {
+          "package_name": "com.hichem.dawakandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567356208066-u78m1qsu15i7pgsdl5uca5vuuk6n502q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hichem.dawakandi",
+            "certificate_hash": "8d0d6c3bb7190669947c356e9f1e09a5e739a910"
+          }
+        },
+        {
+          "client_id": "567356208066-dtvgv0p2d300ocphh9qakcc603de29jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJg-gqm3kUB6FGEggdTaQ_xH9rTJMtFVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567356208066-dtvgv0p2d300ocphh9qakcc603de29jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567356208066:android:d4e1a766292f93eb61dc5b",
+        "android_client_info": {
+          "package_name": "com.hichem.dawakandi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567356208066-dtvgv0p2d300ocphh9qakcc603de29jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJg-gqm3kUB6FGEggdTaQ_xH9rTJMtFVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567356208066-dtvgv0p2d300ocphh9qakcc603de29jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
